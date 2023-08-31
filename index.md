@@ -3,7 +3,10 @@
 - Learning about terminal
 - talking to people around me
 - laughing at the instructors
-- 
+
+
+- Bulleted
+- List
 
 ## Welcome to GitHub Pages
 
